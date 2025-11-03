@@ -1,16 +1,50 @@
-## Hi there 👋
+<h1 align="center">Olá! Eu sou o Davi🐱‍🚀</h1>
 
-<!--
-**DavCodesS/DavCodesS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Engenheiro de Software • Desenvolvedor Junior 
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🐱‍👤 Sobre mim
+Sou um engenheiro de software focado em transformar problemas complexos em soluções simples, eficientes e escaláveis.  
+Trabalho com desenvolvimento de aplicações modernas, automações e arquitetura de software.
+
+</div>
+   <img height = "165cm" src="https://github-readme-stats.vercel.app/api?username=DavCodesS&theme=jolly&show_icons=true"/>
+</div>
+
+Atualmente, estou:
+- 🔭 Desenvolvendo projetos para aprimorar minhas habilidades
+- 🌱 Estudando: *Python*, *JavaScript*, *C++*, *C#*
+- 🦗 Integrante dos Jovens cientistas - CFJC
+---
+
+## 🧰 Tecnologias & Ferramentas
+*Linguagens:*  
+Python, JavaScript, C#, c++
+<div>
+  <img height = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img height = "45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img height = "48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+  <img height = "48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+
+
+
+</div>
+
+
+*Outros:*  
+Testes automatizados, arquitetura limpa, boas práticas, documentação
+
+---
+
+## 📨 Contato
+Se quiser conhecer mais sobre meu trabalho:
+
+*📧 Email:* davirrrr24@gmail.com  
+
+
+---
+
+<h3 align="center">✨ Obrigado por visitar meu GitHub! ✨</h3>
