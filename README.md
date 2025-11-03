@@ -33,7 +33,7 @@ Atualmente, estou:
 
 
 *Outros:*  
-Qgis,Mapeamentos, Testes automatizados, arquitetura limpa, boas práticas, documentação
+Qgis, Mapeamentos, Testes automatizados, arquitetura limpa, boas práticas, documentação
 
 ---
 
