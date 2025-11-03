@@ -21,8 +21,6 @@ Atualmente, estou:
 ---
 
 ## 🧰 Tecnologias & Ferramentas
-*Linguagens:*  
-Python, JavaScript, C#, c++
 <div>
   <img height = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img height = "45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
@@ -35,7 +33,7 @@ Python, JavaScript, C#, c++
 
 
 *Outros:*  
-Testes automatizados, arquitetura limpa, boas práticas, documentação
+Qgis,Mapeamentos, Testes automatizados, arquitetura limpa, boas práticas, documentação
 
 ---
 
