@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou o Davi🐱‍🚀</h1>
 
 <p align="center">
-  Engenheiro de Software • Desenvolvedor Junior 
+  Software Engineer • Junior Developer 
 </p>
 
 ---
