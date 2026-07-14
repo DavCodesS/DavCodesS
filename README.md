@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou o Davi🐱‍🚀</h1>
+<h1 align="center">Olá! Eu sou o Davi</h1>
 
 <p align="center">
   Software Engineer • Junior Developer 
@@ -6,12 +6,26 @@
 
 ---
 
-## 🐱‍👤 Sobre mim
+##  Sobre mim
 Sou um engenheiro de software focado em transformar problemas complexos em soluções simples, eficientes e escaláveis.  
 Trabalho com desenvolvimento de aplicações modernas, automações e arquitetura de software.
 
+
+
+
+
+
+
+
+
+
+
 </div>
-   <img height = "165cm" src="https://github-readme-stats.vercel.app/api?username=DavCodesS&theme=jolly&show_icons=true"/>
+
+
+
+
+ 
 </div>
 
 Atualmente, estou:
@@ -45,4 +59,4 @@ Se quiser conhecer mais sobre meu trabalho:
 
 ---
 
-<h3 align="center">✨ Obrigado por visitar meu GitHub! ✨</h3>
+<h3 align="center"> Obrigado por visitar meu GitHub! </h3>
